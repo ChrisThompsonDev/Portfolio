@@ -1,7 +1,9 @@
+![Screenshot](/images/portfolio.gif)
+
 # My Portfolio Site
 This is my portfolio! I update this site regularly with projects that I have worked on. It includes links to all of my socials and my resume as well!
 
-**Link to project:** https://www.christhompsondev.com/
+[Link to project](https://www.christhompsondev.com/) 
 
 
 ## How It's Made:

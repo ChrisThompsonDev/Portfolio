@@ -1,4 +1,4 @@
-![Screenshot](/images/GossipGirlPortfolio.gif)
+![Screenshot](/images/portfolio.gif)
 
 # My Portfolio Site
 This is my portfolio! I update this site regularly with projects that I have worked on. It includes links to all of my socials and my resume as well!
@@ -10,21 +10,21 @@ This is my portfolio! I update this site regularly with projects that I have wor
 
 **Tech used:** HTML, CSS, JavaScript
 
-I built this page from scratch using HTML and CSS. I based it off of the [Gossip Girl website from the original 2007 show](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d25ec84f-b519-427f-8f88-12a1c17f6c0e/de2k50w-fd1e7aae-c3d0-4fe3-ad6b-47812e54d325.jpg). 
+I started with a template from HTML5Up.net and modfied the HTML and CSS. I love purple and just had to have that represented across the page! 
 
 ## Optimizations
 
-I am working to make this site more responsive with better looking modals.
+I removed a lot of fluff on the page and some uneeded modals and asides. I wanted the page to load quickly and get right to the point. 
 
 ## Lessons Learned:
 
-This was my first big project using CSS transforms and animations. It was a lot of fun and I very pleased with the outcome!
+I had never really used Font Awesome until this project and it was great learning about it. It really helped with the coloring of the social media icons and making everything look clean!
 
 
 ## Examples:
 Take a look at a couple of other examples that I have in my portfolio:
 
-**Pokemon SV Tracker** https://github.com/ChrisThompsonDev/PokemonScarletVioletTools
+**ACNH Tracking Tools** https://github.com/ChrisThompsonDev/acnhTrackingTools-mvc
 
 **Forty One** https://github.com/ChrisThompsonDev/HTML5UP-Forty-Clone
 
